@@ -2,7 +2,7 @@
 
 ### A data science investigation by Andy Orfalea, Ankita Patil, Jacqueline Simeone, and Annie Bishai
 
-![map of clusters]('graphs/Screen Shot 2022-03-24 at 8.24.27 PM.png')
+![map of clusters](https://github.com/aothree/COVID-Vaccinations-and-US-Politics/blob/main/graphs/Screen%20Shot%202022-03-24%20at%208.24.27%20PM.png)
 ---
 
 # Abstract
