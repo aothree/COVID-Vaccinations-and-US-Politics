@@ -1,8 +1,7 @@
 # Disparities in COVID Vaccination Across the American Political Divide
 
-### A data science investigation by Andy Orfalea, Ankita Patil, Jacqueline Simeone, and Annie Bishai
+### A data science investigation by Ankita Patil, Jacqueline Simeone, Andy Orfalea, and Annie Bishai
 
-![map of clusters]('graphs/Screen Shot 2022-03-24 at 8.24.27 PM.png')
 ---
 
 # Abstract
@@ -141,3 +140,7 @@ The stacked classification model successfully predicted 2020 election results wi
 The outcomes of both modeling exercises generally reinforce what has been observed about politics and COVID vaccination, and they allow some insight into specific trends and variable relationships as seen in the notebooks and slides contained in this repo. In addition to potential usefulness of this investigation to public health officials and government at the state and federal levels, the project is also of use to the general public, as a snapshot of where we were and where we are, and the extent to which the politics of two years ago are still largely replicated in our pandemic response.
 
 ---
+
+*README by Annie Bishai*
+
+*Slide deck by Ankita Patil, Jacqueline Simeone, & Andy Orfalea*
